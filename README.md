@@ -36,8 +36,8 @@ Here are some of my key projects you can explore:
 
 ## 🔹 Connect with Me
 
-- 🌐 [My Website](https://yourwebsite.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/soumaya-elfadili/)
+- 🌐 [My Website](https://www.soumayaelfadili.com/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/soumayaelfadili?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BZ39lAxYS8asFd6LcUrNLQ%3D%3D)
 - ✉️ soumayaelfadili@gmail.com
 
 ---
