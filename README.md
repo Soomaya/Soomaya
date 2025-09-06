@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Soumaya Elfadili 👋
 
-<!--
-**Soomaya/Soomaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
 
-Here are some ideas to get you started:
+I'm a **finance professional** with a strong interest in **FinTech, green finance, and data-driven solutions**. I love combining **finance knowledge** with **technology** to automate tasks, analyze data, and create meaningful insights.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 About Me
+
+- 🎓 **Education**: Master in Finance  
+- 💼 **Current Role**: Treasury Specialist  
+- 🧠 **Interests**: FinTech innovation, green finance, data visualization, Python automation, Power BI dashboards  
+- 🌍 **Location**: Morocco  
+
+---
+
+## 🔹 Skills
+
+- **Languages & Tools**: Python, SQL, Excel, Power BI, EViews
+- **Data Analysis & Visualization**: Financial reporting, dashboards, automated scripts  
+- **Finance Expertise**: Treasury management, investment analysis, FinTech adoption research  
+
+---
+
+## 🔹 Projects
+
+Here are some of my key projects you can explore:
+
+- **[Treasury Automation](https://github.com/Soomaya/treasury-automation)** – Python scripts to automate invoice checks and cash flow tracking  
+- **[Financial Data Analysis](https://github.com/Soomaya/financial-data-analysis)** – Analysis and visualization of finance datasets  
+- **[Power BI Dashboards](https://github.com/Soomaya/cash-movement-dashboard)** – Interactive dashboards for treasury and finance metrics  
+- **[FinTech & Green Finance Study](https://github.com/Soomaya/fintech-green-finance)** – Data analysis on FinTech adoption and sustainable finance in Africa  
+
+---
+
+## 🔹 Connect with Me
+
+- 🌐 [My Website](https://yourwebsite.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/soumaya-elfadili/)
+- ✉️ soumayaelfadili@gmail.com
+
+---
+
+> “I believe in leveraging technology to make finance smarter, faster, and greener.”  
