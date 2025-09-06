@@ -17,7 +17,7 @@ I'm a **finance professional** with a strong interest in **FinTech, green financ
 
 ## 🔹 Skills
 
-- **Languages & Tools**: Python, SQL, Excel, Power BI, EViews
+- **Languages & Tools**: Python, SQL, Excel, Power BI
 - **Data Analysis & Visualization**: Financial reporting, dashboards, automated scripts  
 - **Finance Expertise**: Treasury management, investment analysis, FinTech adoption research  
 
